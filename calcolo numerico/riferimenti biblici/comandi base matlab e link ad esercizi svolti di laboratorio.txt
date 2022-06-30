@@ -1,0 +1,21 @@
+comandi matlab
+
+	"save filename.mat" salva il nome del file
+	"clear" pulisce la console dal workspace
+	"load datafile.mat" carica il file nella console
+	se ci sono variabili in memoria, è possibile richiamarle mediante il loro nome
+	"clc" pulisce la console dai comandi
+	"pi" pigreco
+	"sqrt(arg)" funzione radice quadrata
+	"sin(arg)" funzione seno
+	"cos(arg)" funzione coseno
+	"format long" restituisce un numero decimale in base double a virgola mobile
+	"format short" restituisce il numero decimale in base float a virgola mobile
+	"y = [6 6]" come definire un vettore riga
+	"y = [6;6]" come definire un vettore colonna
+	"y = [1 2; 2 1]" come definire una matrice
+	"abs(arg)" funzione valore assoluto
+	"norm(vettore, "tipo")" per poter fare la norma di un vettore
+
+per gli esercizi di laboratorio:
+https://github.com/Piersilvio/Calcolo-numerico
